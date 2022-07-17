@@ -1,4 +1,4 @@
-<h1>Olá 👽, </h1>
+<h1>Olá 👽 </h1>
 
 Me chamou Luiz Vinicius atualmente sou estudante na área de TI cursando Análise e Desenvolvimento de Sistemas, busco me tornar um desenvolvedor FULL STACK.
 
