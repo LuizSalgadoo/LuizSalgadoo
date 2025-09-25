@@ -4,7 +4,7 @@
 
 💼 Analista de Observabilidade & Desenvolvedor Python  
 🌍 Brasília, Brasil  
-🔎 Focado em **monitoramento, automações e engenharia de dados**  
+🔎 Focado em **monitoramento, automações e devops**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-vinicius-salgado/)
 
@@ -15,10 +15,9 @@
 ## 🚀 Sobre mim  
 
 🔧 Profissional com experiência em **monitoramento de aplicações e infraestrutura**, automações e integrações.  
-🧠 Especialista em **observabilidade** com Grafana, Prometheus, OpenSearch, Dynatrace e QRadar.  
+🧠 Especialista em **observabilidade** com Grafana, Prometheus, OpenSearch e Dynatrace.  
 📊 Criação de **dashboards dinâmicos**, alertas inteligentes e **pipelines de dados** para disponibilidade e desempenho de serviços críticos.  
 🤖 Desenvolvimento de **scripts e serviços em Python** para ingestão de dados, monitoramento e notificações em tempo real.  
-🌱 Apaixonado por **aprendizado contínuo**, boas práticas de código e **engenharia de confiabilidade (SRE/DevOps)**.  
 
 ---
 
@@ -64,10 +63,7 @@ Processa e unifica diferentes tipos de arquivos (CSV, SQL, JSON) para análise c
 ## 🎓 Certificações & Cursos (principais)  
 
 - Oracle – **Oracle Certified Foundations Associate**  
-- Databricks – Fundamentals & Generative AI Fundamentals  
-- Google – Data Analytics Certificate  
-- Coursera – Python Scripting for DevOps | SQL Basics  
-- AWS Educate – Introduction to Cloud 101  
+- Databricks – Fundamentals & Generative AI Fundamentals 
 
 ---
 
