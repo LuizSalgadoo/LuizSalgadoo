@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Olá! Eu sou o Luiz Vinícius Pimentel Salgado  
 
 💼 Analista de Observabilidade & Desenvolvedor Python  
@@ -5,6 +7,8 @@
 🔎 Focado em **monitoramento, automações e engenharia de dados**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-vinicius-salgado/)
+
+</div>
 
 ---
 
