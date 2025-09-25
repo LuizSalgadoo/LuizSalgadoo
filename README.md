@@ -12,17 +12,15 @@
 
 ## 🚀 Sobre mim  
 🔧 Profissional com experiência em **monitoramento de aplicações e infraestrutura**, automações e integrações.  
-🧠 Especialista em **observabilidade** com Grafana, Prometheus, OpenSearch, Dynatrace e QRadar.  
+🧠 Especialista em **observabilidade** com Grafana, Prometheus, OpenSearch e Dynatrace.  
 📊 Criação de **dashboards dinâmicos**, alertas inteligentes e **pipelines de dados** para disponibilidade e desempenho de serviços críticos.  
 🤖 Desenvolvimento de **scripts e serviços em Python** para ingestão de dados, monitoramento e notificações em tempo real.  
-🌱 Apaixonado por **aprendizado contínuo**, boas práticas de código e **engenharia de confiabilidade (SRE/DevOps)**.  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
@@ -56,9 +54,7 @@ Processa e unifica diferentes tipos de arquivos (CSV, SQL, JSON) para análise c
 
 ## 🎓 Certificações & Cursos (principais)  
 - Databricks – Fundamentals & Generative AI Fundamentals  
-- Google – Data Analytics Certificate  
-- Coursera – Python Scripting for DevOps | SQL Basics  
-- AWS Educate – Introduction to Cloud 101  
+- Oracle Certified Foundations Associate 2023
 
 ---
 
