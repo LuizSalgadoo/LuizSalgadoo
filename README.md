@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Luiz Vinícius Pimentel Salgado  
+# 👋 Olá! Eu sou o Luiz Salgado  
 
 💼 Analista de Observabilidade & Desenvolvedor Python  
 🌍 Brasília, Brasil  
