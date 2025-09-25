@@ -69,8 +69,12 @@ Processa e unifica diferentes tipos de arquivos (CSV, SQL, JSON) para análise c
 
 ## 📊 GitHub Stats  
 
+<div align="center">
+
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizvinicius&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizvinicius&layout=compact&theme=tokyonight)  
+
+</div>
 
 ---
 
