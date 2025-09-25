@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px;">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
